@@ -13,6 +13,9 @@ body{
 
 h1,h2,h3,h4,h5,h6{
     font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 300;
 }
 
 .content h1{
@@ -126,7 +129,9 @@ h1,h2,h3,h4,h5,h6{
 .infoContent .block .icon-social{
     font-size: 70px;
 }
-
+p{
+	background-color: yellow;
+}
 .btn{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 50px;
